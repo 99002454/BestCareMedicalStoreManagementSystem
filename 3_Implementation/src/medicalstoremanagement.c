@@ -99,6 +99,7 @@
     printf("Entered Name Not Found\n");
    }
   }
+  return 1;
  }
 
  //information about medicine function
